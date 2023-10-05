@@ -5,7 +5,7 @@ This is Shuhuai Lin and you call me Jo as well.
 
 🎓  I graduated from Shanghai Jiao Tong University with a B.Eng. in Software Engineering. My track is system software.
 
-🤔  Interested in backend development and AI, especially cloud service and Large Language Model.
+🤔  Interested in backend development and machine learning, especially cloud infra and NLP.
 
 p.s. Like running and calligraphy. A big fan of Harry Potter 🪄.
 
