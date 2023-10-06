@@ -1,5 +1,5 @@
 ### About Me
-This is Shuhuai Lin and you call me Jo as well.
+This is Shuhuai Lin and you can call me Jo as well.
 
 🌱  Currently I'm pursue a master's degree in Software Engineering at Carnegie Mellon University.
 
